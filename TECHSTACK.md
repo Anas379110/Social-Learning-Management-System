@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — نظام إدارة التعلم الاجتماعي (LMS)
+# 🛠️ Technologies — Social Learning Management System (LMS)
 
 - Angular
 - ASP.NET Core
